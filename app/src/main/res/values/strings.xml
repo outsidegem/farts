@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fart App</string>
+    <string name="notification_listener_title">Notification Listener</string>
+    <string name="service_status">Service Status: %s</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Not Connected</string>
+    <string name="test_sound">Test Muffled Sound</string>
+    <string name="open_settings">Open Notification Access Settings</string>
+    <string name="selected_sound">Selected sound:\n%s</string>
+    <string name="cutoff_info">Cutoff:\n400 Hz</string>
+    <string name="duration_info">Duration:\n3 seconds</string>
+</resources>
